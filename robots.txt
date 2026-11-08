@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arjunrose.github.io/Arjun_Rose_J_S/sitemap.xml
